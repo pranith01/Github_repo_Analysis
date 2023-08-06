@@ -1,0 +1,8 @@
+# Ignore the config.ini file
+config.ini
+
+# Ignore other sensitive files or temporary files
+*.log
+*.db
+*.cache
+*.env
